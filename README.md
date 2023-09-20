@@ -5,3 +5,5 @@
 
 ## Apex REST Callouts Client
 - #### https://api.pathtosalesforce.com/login.php
+- #### Token List -> Token
+- #### Customers -> API
